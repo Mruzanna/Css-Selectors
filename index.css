@@ -1,0 +1,10 @@
+.my-div{
+    width: 500;
+    height: 500;
+    background-color: blue;
+    
+}
+
+    .my-div:hover{
+        background-color: red;
+    }
